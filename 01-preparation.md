@@ -89,4 +89,4 @@ Once preparation is complete, proceed to [Network Configuration](02-network-conf
 
 ---
 
-[← Back to README](../README.md) | [Next: Network Configuration →](02-network-configuration.md)
+[← Back to README](README.md) | [Next: Network Configuration →](02-network-configuration.md)
