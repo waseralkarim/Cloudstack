@@ -1,3 +1,5 @@
+<img width="1915" height="903" alt="Screenshot 2025-11-19 174525" src="https://github.com/user-attachments/assets/9324862e-efcf-4fdf-9cf4-ddda6238f13e" />
+
 # CloudStack Installation Guide
 
 A comprehensive guide for installing and configuring Apache CloudStack 4.22 on Ubuntu 24.04 LTS with KVM hypervisor.
@@ -9,6 +11,8 @@ A comprehensive guide for installing and configuring Apache CloudStack 4.22 on U
 - [Quick Start](#quick-start)
 - [Prerequisites](#prerequisites)
 - [Support](#support)
+
+<img width="1899" height="903" alt="Screenshot 2025-11-19 174548" src="https://github.com/user-attachments/assets/3c04524c-70a6-4c6b-b9e6-e59e591ab12d" />
 
 ## Overview
 
@@ -65,7 +69,7 @@ cd docs
 | KVM Host | 8 vCPU, 16 GB RAM |
 | Storage Server | 4 vCPU, 8 GB RAM |
 
-See [Preparation Guide](docs/01-preparation.md) for detailed requirements.
+See [Preparation Guide](01-preparation.md) for detailed requirements.
 
 ## Support
 
