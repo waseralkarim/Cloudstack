@@ -42,17 +42,6 @@ The installation process is organized into the following documents:
 11. **[Web UI Access](11-web-ui-access.md)** - Accessing CloudStack interface
 12. **[Post-Installation](12-post-installation.md)** - Zone setup and configuration
 
-## Quick Start
-
-```bash
-# Clone this repository
-git clone <repository-url>
-cd cloudstack-installation-guide
-
-# Follow the documentation in order
-cd docs
-```
-
 ## Prerequisites
 
 - Ubuntu 24.04 LTS servers
